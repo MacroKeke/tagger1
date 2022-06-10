@@ -1,0 +1,9 @@
+telethon
+cryptg
+requests
+pyrogram
+pymongo[srv]
+aiofiles
+psutil
+motor
+pymongo
